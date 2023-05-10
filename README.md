@@ -1,2 +1,2 @@
-Para dacilitar a vizialuzação do prijeto, acesse o link:
+Para facilitar a vizialuzação do prijeto, acesse o link:
 https://nassersalim1.github.io/nasser.github.io/
